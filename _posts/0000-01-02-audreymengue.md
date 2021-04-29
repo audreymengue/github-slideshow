@@ -2,4 +2,5 @@
 layout: slide
 title: "Welcome to Audrey Mengue's slide!"
 ---
-Use the left arrow to go back!Use the left arrow to go back!
+Hello there. I like gitHub, it's really cool.
+Use the left arrow to go back!
